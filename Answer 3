@@ -1,0 +1,3 @@
+Normal Permissions are permissions which indicates that there's no great risk to the user's privacy or security in letting apps have those permissions. For example, as there's no risk in allowing an app to vibrate the device,that permission is designated as normal. Eg = BLUETOOTH, CHANGE_NETWORK_STATE.
+
+Dangerous permissions cover areas where the app wants data or resources that involve the user's private information, or could potentially affect the user's stored data or the operation of other apps. For example, the ability to read the user's contacts is a dangerous permission. If an app declares that it needs a dangerous permission, the user has to explicitly grant the permission to the app. Eg = READ_CONTACTS, CALL_PHONE
